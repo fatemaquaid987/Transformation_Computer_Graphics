@@ -12,6 +12,8 @@ The file spiral.c contains main() function along with other functions that make
 up the spiral.   
 matrix.h contains all the matrix function signatures.  
 
+# How to run the executable file(tranformation.exe):
+Download and open the executable folder. Double click the transformation.exe file to run the project.
 
 # How to run the code: 
 Follow the intructions given in the SETUP.md file to make the necessary installations and setup.  
