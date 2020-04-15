@@ -1,7 +1,7 @@
 # Transformation_Computer_Graphics
 A computer generated three-dimensional spiral which can be scaled and rotated. 
 
-# Files: 
+## Files: 
 matrix.h  
 spiral.c  
 vshader.glsl  
@@ -12,13 +12,13 @@ The file spiral.c contains main() function along with other functions that make
 up the spiral.   
 matrix.h contains all the matrix function signatures.  
 
-# How to run the executable file(tranformation.exe):
+## How to run the executable file(tranformation.exe):
 Download and open the executable folder. Double click the transformation.exe file to run the project.
 
-# How to run the code: 
+## How to run the code: 
 Follow the intructions given in the SETUP.md file to make the necessary installations and setup.  
 Create a new project (in Visual Studio) with all these files and run.  
 
-# How to operate: 
+## How to operate: 
 Use keys 3 and 4 to scale down and up respectively.  
 Use mouse left button to rotate the spiral in any direction.  
