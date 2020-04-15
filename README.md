@@ -7,7 +7,7 @@ spiral.c
 vshader.glsl  
 fshader.glsl  
 initShader.c  
-initShader.h 
+initShader.h     
 The file spiral.c contains main() function along with other functions that make
 up the spiral.   
 matrix.h contains all the matrix function signatures.  
